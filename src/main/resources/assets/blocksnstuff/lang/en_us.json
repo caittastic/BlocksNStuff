@@ -1,0 +1,25 @@
+{
+
+  "item.blocksnstuff.example_item": "Orb Of Example",
+  "item.blocksnstuff.testing_rod": "Rod Of Experiments",
+  "item.blocksnstuff.raw_examplite": "Raw Exapmplite",
+  "item.blocksnstuff.examplite_ingot": "Examplite Ingot",
+
+  "item.blocksnstuff.charcoal_dust": "Charcoal Dust",
+  "item.blocksnstuff.dust_low": "Low Ionic Powder",
+  "item.blocksnstuff.dust_mid": "Medium Ionic Powder",
+  "item.blocksnstuff.dust_high": "High Ionic Powder",
+
+  "item.blocksnstuff.firey_trinket": "Firey Trinket",
+  "item.blocksnstuff.icy_trinket": "Icy Trinket",
+  "item.blocksnstuff.destroy_trinket": "Destructive Trinket",
+
+  "block.blocksnstuff.examplite_block": "Block Of Examplite",
+  "block.blocksnstuff.examplite_ore": "Examplite Ore",
+  "block.blocksnstuff.cold_block": "Cold Block",
+
+
+  "itemGroup.blocksnstuff_tab": "Blocks 'N' Stuff"
+
+
+}

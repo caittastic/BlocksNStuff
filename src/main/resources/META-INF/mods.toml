@@ -8,7 +8,7 @@ license="MIT"
 
 modId="blocksnstuff" #mandatory
 
-version="${file.jarVersion}" #mandatory
+version="0.1.0" #mandatory
 
 displayName="Blocks 'N' Stuff" #mandatory
 
@@ -20,19 +20,19 @@ authors="caittatic, and cy4 in teacherly spirit" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-caittastic following a tutorial made by cy4
+caittastic following a tutorial made by Tutorials by Kaupenjoe
 thank you to everyone helping me learn java and fix all my confusing issues
 '''
 
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
-[[dependencies.BlocksNStuff]] #optional
+[[dependencies.blocksnstuff]] #optional
     modId="forge" #mandatory
     mandatory=true #mandatory
     versionRange="[36,)" #mandatory
     ordering="NONE"
     side="BOTH"
     
-[[dependencies.BlocksNStuff]]
+[[dependencies.blocksnstuff]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.16,)"

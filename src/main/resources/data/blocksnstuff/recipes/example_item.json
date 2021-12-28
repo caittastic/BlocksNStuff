@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#x#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glass_pane"
+    },
+    "x": {
+      "item": "blocksnstuff:examplite_ingot"
+    }
+  },
+  "result": {
+    "item": "blocksnstuff:example_item"
+  }
+}
